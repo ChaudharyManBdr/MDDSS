@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author bimal
+ * @author 
  */
 public class CalculateProbPneumonia {
 
