@@ -7,7 +7,7 @@ package viewcontroller;
 
 /**
  *
- * @author bimal
+ *
  */
 import database.services.DbConnection;
 import java.sql.PreparedStatement;
