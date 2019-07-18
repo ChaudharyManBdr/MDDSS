@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 /**
  * This class is used for the calculation for the piles disease.
  *
- * @author Harish Thagunna
+ * 
  */
 public class ConditionalProbPiles {
 
